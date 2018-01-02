@@ -1,0 +1,31 @@
+<html>
+  
+ <head>
+<link rel="stylesheet" type="text/css" href="wikipediaviewer.css">
+
+<script src ="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script type="text/javascript" src="wikipediaviewer.js"></script>
+</head> 
+
+  <body>
+    <h1> Wikipedia Viewer</h1>
+    <button type="button" class="btn btn-primary"><a href ="https://en.wikipedia.org/wiki/Special:Random" target ="_blank">Click to get a random Wikipedia article </a></button> 
+    
+  
+    
+    <div class="col-lg-6">
+    <div class="input-group">
+      
+          
+      <input type="text"  id = "search" class="form-control" placeholder = "Search for...">
+      <span class="input-group-btn">
+    <button id = "go"  class="btn btn-secondary" type="button">Go!</button>
+        
+      </span>
+    </div>
+  </div>
+    <article id = "display"></article>
+  </body>
+  
+</html>

@@ -1,0 +1,23 @@
+body  {
+  margin-top: 40px;
+ text-align: center;
+}
+
+a {
+    color: white;
+}
+a:visited, a:hover {
+      color: white;
+
+}
+.input-group{
+  margin-top: 20px;
+  margin-left: 580px;
+  width: 400px
+}
+article{
+  text-align:left;
+  background-color: #3399ff;
+  margin-top:20px;
+  margin-bottom:20px;
+}
