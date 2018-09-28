@@ -5,3 +5,6 @@ You can basically search for words and you can see displayed in the Wikipedia's 
 If you can click on the article, you are redirected to Wikipedia itself!
 
 There is also a Random Article Button but for some reason it is not working anymore 
+
+
+![alt text](https://github.com/AndreusSH/wikipediaviewer/blob/master/Wikipedia_Viewer.PNG)
